@@ -15,10 +15,3 @@ Gestion des étudients implémenté avec java(JDBC8.jar) et oracle database.
 * euclipce
 * Oracle database 11g expresse edition.
 * Driver ojdbc8.jar.
-
-# Some Interfaces
-![st1.png](st1.png)
-<br>
-![st2.png](st2.png)
-<br>
-![st3.png](st3.png)
