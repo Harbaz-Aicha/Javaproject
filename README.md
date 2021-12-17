@@ -11,7 +11,7 @@ Gestion des étudients implémenté avec java(JDBC8.jar) et oracle database.
 *    Vérification de la vaccinatin des étudiants. 
 
 
-# Used Tools:
+# utiles utilisés:
 * euclipce
 * Oracle database 11g expresse edition.
 * Driver ojdbc8.jar.
